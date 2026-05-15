@@ -1,0 +1,7 @@
+Logos/
+.DS_Store
+.deepseek/
+*.pdf
+serve.py
+fix_plans.py
+*.py
